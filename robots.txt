@@ -23,4 +23,5 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://itg-indonesia.vercel.app/sitemap.xml
+Sitemap: https://globalgeoteknik.netlify.app/sitemap.xml
+
